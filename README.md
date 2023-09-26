@@ -1,9 +1,5 @@
 # Car Price Prediction with Machine Learning
 
-![GitHub stars](https://img.shields.io/github/stars/Sam-3l/Car-Price-Prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Sam-3l/Car-Price-Prediction?style=social)
-![GitHub license](https://img.shields.io/github/license/Sam-3l/Car-Price-Prediction)
-
 ## Overview
 
 This repository contains a machine learning project that predicts the prices of cars based on various features and attributes. Predicting car prices can be valuable for both buyers and sellers in the automotive market. Buyers can use this model to estimate fair prices, while sellers can optimize pricing strategies to attract potential buyers.
