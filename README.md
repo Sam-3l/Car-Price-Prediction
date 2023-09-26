@@ -1,8 +1,8 @@
 # Car Price Prediction with Machine Learning
 
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/Car-Price-Prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YourUsername/Car-Price-Prediction?style=social)
-![GitHub license](https://img.shields.io/github/license/YourUsername/Car-Price-Prediction)
+![GitHub stars](https://img.shields.io/github/stars/Sam-3l/Car-Price-Prediction?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sam-3l/Car-Price-Prediction?style=social)
+![GitHub license](https://img.shields.io/github/license/Sam-3l/Car-Price-Prediction)
 
 ## Overview
 
